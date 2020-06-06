@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://sergi.xaudiera.xyz"
 languageCode = "en-us"
 title = "Sergi Xaudiera"
-theme = "ananke"
+author = "Sergi Xaudiera"
+theme = "sx"

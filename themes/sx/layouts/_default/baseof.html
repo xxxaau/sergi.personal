@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>⊙ {{ if not .IsHome }}{{ with .Title }}{{ . }} · {{ end }}{{ end }}{{ .Site.Title }}</title>
+	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	<meta name="author" content="Sergi Xaudiera">
+	<style type="text/css">
+		/* sergi.xaudiera.xyz */
+		body {
+			margin: 40px auto 100px auto;
+			width: 600px;
+			color: rgba(0, 0, 0, 0.8);
+			font-family: -apple-system, Helvetica, arial, sans-serif;
+			font-size: 15px;
+			line-height: 1.6em;
+		}
+		@media screen and (max-width: 600px) {
+			body {
+				width: 94%;
+			}
+			.content {
+				margin: 0 7px;
+			}
+		}
+		footer {
+			padding-top: 40px;
+		}
+		footer, footer a, footer a:visited, aside {
+			color: #ccc;
+		}
+		footer a:hover{
+			color:#000;
+		}
+		aside {
+			text-align: right;
+		}
+		a {
+			text-decoration: underline;
+		}
+		a:hover {
+			background-color: #fce234;
+		}
+		h1 {
+			font-size: 24px;
+			margin-bottom: 5px;
+		}
+		h2 {
+			font-size: 20px;
+			margin-top: 30px;
+		}
+		.mono {
+			font-family: courier;
+		}
+		nav {
+			margin-bottom: 40px;
+			text-transform: lowercase;
+		}
+		nav ul {
+			list-style-type: none;
+			padding-left: 0;
+			margin: 15px 0 20px 0;
+			font-weight: 500;
+		}
+		nav ul li {
+			display: inline;
+			margin-right: 6px;
+		}
+		.section ul {
+			padding-left: 15px;
+		}
+	</style>
+	{{ with .OutputFormats.Get "RSS" -}}
+		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
+	{{- end }}
+</head>
+<body>
+	{{ partial "header" . }}
+	{{ block "main" . }}{{ end }}
+	{{ partial "footer" . }}
+</body>
+</html>

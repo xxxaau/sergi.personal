@@ -1,0 +1,23 @@
+<header>
+	{{ if not .IsHome }}
+	<nav>
+		<ul>
+			<li><a href="{{ .Site.BaseURL }}">← home</a> / </li>
+			<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+		</ul>
+	</nav>
+	{{ end }}
+	{{ if .IsHome }}{{ with .Site.Menus.main }}
+	<h1>{{ $.Site.Title }}</h1>
+	<nav>
+		<ul>
+			{{ range . }}
+			<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+			{{ end }}
+			<!-- <li><a href="/blog/">Blog</a></li> --> 
+			<li>sergi@xaudiera.xyz</li>
+		</ul>
+	</nav>
+	{{ end }}
+	{{ end }}
+</header>
