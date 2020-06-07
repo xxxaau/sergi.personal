@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="Sergi Xaudiera. Computational Communication Research on Crisis Informatics and Misinformation">
 	<title>⊙ {{ if not .IsHome }}{{ with .Title }}{{ . }} · {{ end }}{{ end }}{{ .Site.Title }}</title>
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	<meta name="author" content="Sergi Xaudiera">
@@ -70,6 +71,9 @@
 		}
 		.section ul {
 			padding-left: 15px;
+		}
+		video {
+			width: 100%;
 		}
 	</style>
 	{{ with .OutputFormats.Get "RSS" -}}
