@@ -6,6 +6,7 @@ description: Recent reads by Sergi Xaudiera
 Books I have read. Those I recommend labeled with ★
 
 ## 2020
+1. _Somos la leche_ by Alba Padró (July, 2020)
 1. _Cançó de la plana_ by Kent Haruf (June, 2020) ★
 1. _Parir amb humor_ by Carles Capdevila (March, 2020)
 1. _The KGB and Soviet Disinformation_ by Ladislav Bittman (March,2020) ★
