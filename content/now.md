@@ -7,14 +7,12 @@ What I'm doing now
 
 ## Home routine
 * Physical activity, 5x week
-* Deep work: 4×45 mins (pomodoro timers), 3x week
+* Deep work: 3×45 mins (pomodoro timers), 3x week
 * Learning: 10m of Anki, every weekday
-* Reading: 30m, every weekday
-* Writing: 30m, every weekday
-* Gratitude, every weekday
 
 ## Research
-Taking a break till september 
+* Clean up my personal knowledge base
 
 ## Personal
-My most important project.
+* My most important project 💜
+* Gratitude, every weekday
