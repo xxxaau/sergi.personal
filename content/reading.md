@@ -6,6 +6,8 @@ description: Recent reads by Sergi Xaudiera
 Books I have read. Those I recommend labeled with ★
 
 ## 2020
+1. _Tota la veritat: La crònica definitiva dels dies decisius del Procés_ by Ferran Casas et al. (September, 2020)
+1. _Viu el teu somni_ by Marcel Zamora (September, 2020)
 1. _Educar millor_ by Carles Capdevila (August, 2020)
 1. _Omple'm de petons_ by Carlos González (July, 2020)
 1. _Somos la leche_ by Alba Padró (July, 2020)
