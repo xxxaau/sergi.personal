@@ -15,7 +15,7 @@ What I'm doing now
 * Writing (25') = 1 x 5 weekday
 * Planning (5') = 1 x1 (Saturday)
 
-## Sport
+## Sport
 * Cardeo (1h) = 2 days
 * Force (40') = 2 days
 * Yoga (30') = 4 days
