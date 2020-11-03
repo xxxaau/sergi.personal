@@ -6,7 +6,7 @@ description: Recent reads by Sergi Xaudiera
 Books I have read. Those I recommend labeled with ★
 
 ## 2020
-1. _Dormir sin lágrimas: dejarle llorar no es la solución_ by Rosa Jové
+1. _Dormir sin lágrimas: dejarle llorar no es la solución_ by Rosa Jové (October, 2020)
 1. _Tota la veritat: La crònica definitiva dels dies decisius del Procés_ by Ferran Casas et al. (September, 2020) ★
 1. _Viu el teu somni_ by Marcel Zamora (September, 2020)
 1. _Educar millor_ by Carles Capdevila (August, 2020)
