@@ -4,6 +4,8 @@ date: 2020-05-12T18:44:37+02:00
 description: Recent reads by Sergi Xaudiera
 ---
 Books I have read. Those I recommend labeled with ★
+## 2021
+1. _101 Historias NBA_ by Gonzalo Vázquez (February, 2021) ★
 
 ## 2020
 1. _Wonder_ by R.J. Palacio (December, 2020) ★
