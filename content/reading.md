@@ -5,7 +5,8 @@ description: Recent reads by Sergi Xaudiera
 ---
 Books I have read. Those I recommend labeled with ★
 ## 2021
-1. Una casa amb rodes by Ivan Jablonka (April, 2021)
+1. _Dolça introducció al caos_ by Marta Orriols (April, 2021)
+1. _Una casa amb rodes_ by Ivan Jablonka (April, 2021)
 1. _101 Historias NBA_ by Gonzalo Vázquez (February, 2021) ★
 
 ## 2020
