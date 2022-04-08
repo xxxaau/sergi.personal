@@ -4,6 +4,10 @@ date: 2020-05-12T18:44:37+02:00
 description: Recent reads by Sergi Xaudiera
 ---
 Books I have read. Those I recommend labeled with ★
+
+## 2022
+1. _Mientras escribo_ by Stephen King (April 2022) ★
+
 ## 2021
 1. _La pell freda_ by Albert Sánchez Piñol (June, 2021)
 1. _On Connection_ by Kae Tempest (May, 2021)
