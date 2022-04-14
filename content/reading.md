@@ -4,9 +4,15 @@ date: 2020-05-12T18:44:37+02:00
 description: Recent reads by Sergi Xaudiera
 ---
 Books I have read. Those I recommend labeled with ★
+<<<<<<< HEAD
 ## 2022
 
 1. _Mientras escribo_ by Stephen King (April, 2022) ★
+=======
+
+## 2022
+1. _Mientras escribo_ by Stephen King (April 2022) ★
+>>>>>>> f1d96b489187279acde96a0668e6846bae386a5a
 
 ## 2021
 
