@@ -1,18 +1,12 @@
 ---
 title: "reading"
 date: 2020-05-12T18:44:37+02:00
-description: Recent reads by Sergi Xaudiera
 ---
 Books I have read. Those I recommend labeled with ★
 <<<<<<< HEAD
 ## 2022
 
 1. _Mientras escribo_ by Stephen King (April, 2022) ★
-=======
-
-## 2022
-1. _Mientras escribo_ by Stephen King (April 2022) ★
->>>>>>> f1d96b489187279acde96a0668e6846bae386a5a
 
 ## 2021
 
@@ -25,6 +19,7 @@ Books I have read. Those I recommend labeled with ★
 1. _101 Historias NBA_ by Gonzalo Vázquez (February, 2021) ★
 
 ## 2020
+
 1. _Wonder_ by R.J. Palacio (December, 2020) ★
 1. _Dormir sin lágrimas: dejarle llorar no es la solución_ by Rosa Jové (October, 2020)
 1. _Tota la veritat: La crònica definitiva dels dies decisius del Procés_ by Ferran Casas et al. (September, 2020) ★
