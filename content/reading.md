@@ -3,7 +3,7 @@ title: "reading"
 date: 2020-05-12T18:44:37+02:00
 ---
 Books I have read. Those I recommend labeled with ★
-<<<<<<< HEAD
+
 ## 2022
 
 1. _Mientras escribo_ by Stephen King (April, 2022) ★
