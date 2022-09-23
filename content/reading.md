@@ -5,6 +5,7 @@ date: 2020-05-12T18:44:37+02:00
 Books I have read. Those I recommend labeled with ★
 
 ## 2022
+1. _Bored and Brilliant_ by Manoush Zomorodi (September, 2022)
 1. _Por qué dormimos (Why we sleep)_ by Matthew Walker (August, 2022)
 2. _Minimalismo digial (Digital Minimalism)_ by Cal Newport (August, 2022)
 3. _Hábitos atómicos (Atomic Habits)_ by James Clear (July, 2022)
