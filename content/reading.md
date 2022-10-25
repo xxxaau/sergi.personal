@@ -1,10 +1,12 @@
 ---
-title: "reading"
+title: "Reading"
 date: 2020-05-12T18:44:37+02:00
 ---
+## Reading
 Books I have read. Those I recommend labeled with ★
 
-## 2022
+### 2022
+1. _La revolución de la glucosa_ by Jessie Inchauspé (October, 2022)
 1. _Bored and Brilliant_ by Manoush Zomorodi (September, 2022)
 1. _Por qué dormimos (Why we sleep)_ by Matthew Walker (August, 2022)
 2. _Minimalismo digial (Digital Minimalism)_ by Cal Newport (August, 2022)
@@ -13,8 +15,7 @@ Books I have read. Those I recommend labeled with ★
 5. _Permagel_ by Eva Baltasar (April, 2022)  
 6. _Mientras escribo_ by Stephen King (April, 2022) ★
 
-## 2021
-
+### 2021
 1. _Gent normal_ by Sally Rooney (December, 2021)
 1. _El ritmo de la cancha_ by Jacobo Rivero (December, 2021)
 1. _La pell freda_ by Albert Sánchez Piñol (June, 2021)
@@ -23,8 +24,7 @@ Books I have read. Those I recommend labeled with ★
 1. _Una casa amb rodes_ by Ivan Jablonka (April, 2021)
 1. _101 Historias NBA_ by Gonzalo Vázquez (February, 2021) ★
 
-## 2020
-
+### 2020
 1. _Wonder_ by R.J. Palacio (December, 2020) ★
 1. _Dormir sin lágrimas: dejarle llorar no es la solución_ by Rosa Jové (October, 2020)
 1. _Tota la veritat: La crònica definitiva dels dies decisius del Procés_ by Ferran Casas et al. (September, 2020) ★
@@ -39,8 +39,7 @@ Books I have read. Those I recommend labeled with ★
 1. _Gina_ by Maria Climent  (February, 2020)
 1. _Benedicció_ by Kent Haruf (January, 2020) ★
 
-## 2019
-
+### 2019
 1. _Soldados de Salamina_ by Javier Cercas (December, 2019)
 1. _The Craft of Research_ by Wayne C. Boot et al. (November, 2019)
 1. _Capvespre_ by Kent Haruf (September, 2019) ★
@@ -55,8 +54,7 @@ Books I have read. Those I recommend labeled with ★
 1. _Permagel_ by Eva Baltasar (February, 2019)  ★
 1. _El Imperio de la vigilancia_ by Ignacio Ramonet (January, 2019)
 
-## 2018
-
+### 2018
 1. _La memòria de l'arbre_ by Tina Vallès (December, 2018) ★
 1. _Big Crisis Data_ by Carlos Castillo (December, 2018)
 1. _Data Points_ by Nathan Yau (November, 2018) ★
@@ -73,8 +71,7 @@ Books I have read. Those I recommend labeled with ★
 1. _Oceà Àfrica_ by Xavier Aldekoa (February, 2018)
 1. _Open_ by Andre Agassi (January, 2018) ★
 
-## 2017
-
+### 2017
 1. _Chavs. La demonización de la clase obrera_ by Owen Jones (December, 2017)
 1. _R for Data Science_ by Wickham & Grolemund (November, 2017) ★
 1. _Ikigai. Los secretos de Japón para una vida larga y feliz_ by Héctor García (August, 2017)
@@ -84,8 +81,7 @@ Books I have read. Those I recommend labeled with ★
 1. _Sàpiens. Una breu història de la humanitat_ by Yuval Noah Harari (March, 2017) ★
 1. _Análisis de datos de redes sociales_ by Cristina Pérez-Solà i Jordi Casas-Roma (January, 2017)
 
-## 2016 
-
+### 2016 
 1. _Breve historia del mundo_ by Ernst H. Gombrich (September, 2016) ★
 1. _Cuatro amigos_ by David Trueba (June, 2016) ★
 1. _Segui vora el foc_ by Jair Domínguez (May, 2016)
@@ -94,8 +90,7 @@ Books I have read. Those I recommend labeled with ★
 1. _Catorze ciutats comptant-hi Brookyln_ by Quim Monzó (January, 2016) ★
 1. _La economía no existe_ by Antonio Baños Boncompain (January, 2016)
 
-## 2015
-
+### 2015
 1. _La volta al món en 80 dies_ by Jules Verne (October, 2015)
 1. _Pagodes i gratacels. Un viatge al Japó_ by J.N. Santaeulàlia (October, 2015)
 1. _Soccernomics_ by Simon Kuper & Stefan Szymanski (September, 2015)
@@ -107,8 +102,7 @@ Books I have read. Those I recommend labeled with ★
 1. _Comunicación de instituciones públicas_ by Núria Escalona (February, 2015) 
 1. _Canastas sagradas_ by Phil Jackson (January, 2015)
 
-## 2014
-
+### 2014
 1. _Bogeries de Brooklyn_ by Paul Auster (November, 2014) ★
 1. _Storytelling, la máquina de fabricar historias y formatear las mentes_ by Salmon (October, 2014)
 1. _Si Beethoven pogués escoltar-me_ by Ramon Gener (September, 2014)
@@ -117,8 +111,7 @@ Books I have read. Those I recommend labeled with ★
 1. _Formulas para ganar_ by Julián Felipo (January, 2014) ★
 1. _Avança la teva jubilació_ by Raimon Samsó (January, 2014)
 
-## 2013
-
+### 2013
 1. _ReWork, change the way you work forever_ by Jason Fried (November, 2013)
 1. _El petit príncep_ by Antoine de Saint-Exupéry (August, 2013) ★
 1. _Allà on viuen els monstres_ by Maurice Sendak (August, 2013)
@@ -134,8 +127,7 @@ Books I have read. Those I recommend labeled with ★
 1. _La Ciencia del caos_ by Philip Kotler (January, 2013)
 1. _L'última lliçó_ by Randy Pausch (January, 2013)
 
-## 2012
-
+### 2012
 1. _Petit tractat del decreixement serè_ by Serge Latouche (December, 2012) ★
 1. _Zen 305_ by Ferran Martínez (December, 2012)
 1. _Conectados_ by Nicholas A. Christiakis & James H. Fowler (November, 2012)
@@ -159,8 +151,7 @@ Books I have read. Those I recommend labeled with ★
 1. _Analítica Web 2.0_ by Avinash Kaushik (March, 2012)
 1. _Córrer o morir_ by Kilian Jornet (January, 2012)
 
-## 2011
-
+### 2011
 1. _Yo y tú, objetos de lujo_ by Vicente Verdú (December, 2011) ★
 1. _La Ética del hacker y el espíritu de la era de la información_ by Pekka Himanen (November, 2011) ★
 1. _Mañana lo dejo_ by Pedro García Aguado (November, 2011)
@@ -173,7 +164,6 @@ Books I have read. Those I recommend labeled with ★
 1. _Wikileaks per dins_ by Daniel Domscheit-Berg (May, 2011) ★
 1. _Jazz al despatx de Hitler_ by Plàcid Garcia- Planas (February, 2011) ★
 
-## 2010
-
+### 2010
 1. _Y Google, ¿Cómo lo haría?_ by Jeff Jarvis (November, 2010)
 1. _El Palau de la LLuna_ by Paul Auster (October, 2010) ★
