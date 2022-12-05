@@ -1,14 +1,15 @@
 ---
 title: "About"
 date: 2020-05-12T18:44:37+02:00
-menu: "main"
 ---
-citizenship: european  
-year of birth: 1986  
-contact: [sergi@xaudiera.xyz](mailto:sergi@xaudiera.xyz)  
-~  
-## academic
+## About
+Citizenship: european  
+Year of birth: 1986  
+Contact: [sergi@xaudiera.xyz](mailto:sergi@xaudiera.xyz)  
 
+~  
+
+### Academic
 **Doctor of Philosophy - PhD, Knowledge and Information Society**  
 Universitat Oberta de Catalunya  
 2019 - Present  
@@ -26,8 +27,7 @@ Institut Pla de l'Estany
 2005 - 2007  
 ~
 
-## work experience
-
+### Work Experience
 **Digital Strategist. Government of Catalonia**  
 Development and delivery of a digital strategy that improves citizen engagement in innovative ways.  
 March 2010 - Present  
@@ -41,11 +41,11 @@ Develop backend components (php/mysql) for a ticketing software and frontend web
 September 2008 - March 2009  
 ~
 
-## skills
+### Skills
 **Knowledge** —  strategic planning, digital transformation, product management, data driven decision making, social network analysis (SNA)  
 **Software** — r (tidyverse, ggplot2, igraph) gephi, html, css, git, sql  
 **Languages** —  catalan (native), spanish (native),english (fluent), french (elementary)  
 ~
 
-## references
-Available upon request ☺
+### References
+Available upon request

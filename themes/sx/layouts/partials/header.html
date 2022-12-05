@@ -1,23 +1,18 @@
 <header>
-	{{ if not .IsHome }}
-	<nav>
-		<ul>
-			<li><a href="{{ .Site.BaseURL }}">← home</a> / </li>
-			<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-		</ul>
-	</nav>
-	{{ end }}
-	{{ if .IsHome }}{{ with .Site.Menus.main }}
+	{{ if .IsHome }}
 	<h1>{{ $.Site.Title }}</h1>
-	<nav>
-		<ul>
-			{{ range . }}
-			<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-			{{ end }}
-			<!-- <li><a href="/blog/">Blog</a></li> --> 
-			<li>sergi@xaudiera.xyz</li>
-		</ul>
-	</nav>
+	<h4>crisis informatics. misinformation. infodemics. communication. and all that.</h4>
+		<a href="/about/" title="About">About</a> /
+		<a href="/research/" title="Research">Research</a> /
+		<a href="/publications/" title="Publications">Publications</a> /
+		<a href="/reading/" title="Reading">Reading</a>
 	{{ end }}
+	{{ if not .IsHome }}
+	<a href="{{ .Site.BaseURL }}"><h1>{{ $.Site.Title }}</h1></a>
+		<a href="{{ .Site.BaseURL }}">← Home</a> / 
+		<a href="/about/" title="About">About</a> /
+		<a href="/research/" title="Research">Research</a> /
+		<a href="/publications/" title="Publications">Publications</a> /
+		<a href="/reading/" title="Reading">Reading</a>
 	{{ end }}
 </header>

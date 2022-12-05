@@ -6,7 +6,7 @@ date: 2020-05-12T18:44:37+02:00
 Books I have read. Those I recommend labeled with ★
 
 ### 2022
-1. _De 0 a 3, re de pantalles?_ by Anna Ramis Assens (November, 2022)
+1. _De 0 a 3, res de pantalles?_ by Anna Ramis Assens (November, 2022)
 1. _La revolución de la glucosa_ by Jessie Inchauspé (October, 2022)
 1. _Bored and Brilliant_ by Manoush Zomorodi (September, 2022)
 1. _Por qué dormimos (Why we sleep)_ by Matthew Walker (August, 2022)
