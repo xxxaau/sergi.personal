@@ -4,3 +4,7 @@ title = "Sergi Xaudiera"
 author = "Sergi Xaudiera"
 theme = "sx"
 enableGitInfo = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
