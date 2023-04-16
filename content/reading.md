@@ -6,6 +6,7 @@ date: 2020-05-12T18:44:37+02:00
 Books I have read. Those I recommend labeled with ★
 
 ### 2023
+1. _Canto jo i la muntanya balla_ by Irene Solà (April, 2024) ★
 1. _Fake Over_ by Nereida Carrillo (March, 2023)
 1. _El explicador de cosas_ by Randall Munroe (March, 2023)
 1. _How to take smart notes_ by Sönke Ahrens (January, 2023)
@@ -16,7 +17,7 @@ Books I have read. Those I recommend labeled with ★
 1. _Bored and Brilliant_ by Manoush Zomorodi (September, 2022)
 1. _Por qué dormimos (Why we sleep)_ by Matthew Walker (August, 2022)
 1. _Minimalismo digial (Digital Minimalism)_ by Cal Newport (August, 2022)
-1. _Hábitos atómicos (Atomic Habits)_ by James Clear (July, 2022)
+1. _Hábitos atómicos (Atomic Habits)_ by James Clear (July, 2022) ★
 1. _Céntrate (Deep Work)_ by Cal Newport (June, 2022) ★
 1. _Permagel_ by Eva Baltasar (April, 2022)  
 1. _Mientras escribo_ by Stephen King (April, 2022) ★
