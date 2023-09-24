@@ -6,10 +6,11 @@ date: 2020-05-12T18:44:37+02:00
 Books I have read. Those I recommend labeled with ★
 
 ### 2023
-1. _Demà, i demà, i demà_ by Gabrielle Zevin (July, 2024) ★
-1. _Never split the difference_ by Chris Voss (June, 2024)
-2. _Gratitude_ by Oliver Sacks (April, 2024)
-3. _Canto jo i la muntanya balla_ by Irene Solà (April, 2024) ★
+1. _Aprenent de pare_ by Joan Turu (September, 2023)
+1. _Demà, i demà, i demà_ by Gabrielle Zevin (July, 2023) ★
+1. _Never split the difference_ by Chris Voss (June, 2023)
+2. _Gratitude_ by Oliver Sacks (April, 2023)
+3. _Canto jo i la muntanya balla_ by Irene Solà (April, 2023) ★
 4. _Fake Over_ by Nereida Carrillo (March, 2023)
 5. _El explicador de cosas_ by Randall Munroe (March, 2023)
 6. _How to take smart notes_ by Sönke Ahrens (January, 2023)
