@@ -6,7 +6,7 @@ date: 2020-05-12T18:44:37+02:00
 Books I have read. Those I recommend labeled with ★
 
 ### 2023
-1. _Aprenent de pare_ by Joan Turu (September, 2023)
+1. _Aprenent de pare_ by Joan Turu (September, 2023) ★
 1. _Demà, i demà, i demà_ by Gabrielle Zevin (July, 2023) ★
 1. _Never split the difference_ by Chris Voss (June, 2023)
 2. _Gratitude_ by Oliver Sacks (April, 2023)
