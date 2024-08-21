@@ -1,15 +1,15 @@
 ---
 title: "Reading"
 date: 2020-05-12T18:44:37+02:00
-marp: true
+marp: false
 ---
 ## Reading
 Books I have read. Those I recommend labeled with ★
 
 ### 2024
-
+1. _A casa teníem un himne_ by Maria Climent (August, 2024) ★
 1. _Vive más_ by Marcos Vázquez (June, 2024)
-2. _Cuatro amigos_ by David Trueba (May, 2024)  
+1. _Cuatro amigos_ by David Trueba (May, 2024)  
 
 ### 2023
 1. _Aprenent de pare_ by Joan Turu (September, 2023) ★
