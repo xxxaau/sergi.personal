@@ -7,7 +7,7 @@ marp: false
 Books I have read. Those I recommend labeled with ★
 
 ### 2024
-1. _How to win fr and influence people_ by Dale Carnegie (November, 2024)
+1. _How to win friends and influence people_ by Dale Carnegie (November, 2024)
 1. _Jo només il·lumino la catalana terra_ by Valero Sanmartí (September, 2024)  
 1. _L'aigua és això_ by David Foster Wallace (September, 2024) ★
 1. _A casa teníem un himne_ by Maria Climent (August, 2024) ★
