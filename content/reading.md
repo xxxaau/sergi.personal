@@ -6,6 +6,9 @@ marp: false
 ## Reading
 Books I have read. Those I recommend labeled with ★
 
+### 2025
+1. _Titans, pantera i torniquet_ by Can't Play Kanter (Maig, 2025)
+
 ### 2024
 1. _La globalització a la deriva_ by Jordi Torrent Pujol (December, 2024)
 1. _How to win friends and influence people_ by Dale Carnegie (November, 2024)
