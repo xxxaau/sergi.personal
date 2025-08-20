@@ -8,8 +8,9 @@ Books I have read. Those I recommend labeled with ★
 
 ### 2025
 1. _El perquè de tot plegat_ by Quim Monzó (Agost, 2025)
-1. _Titans, pantera i torniquet_ by Can't Play Kanter (Maig, 2025)
 2. _Els hàbits que els faran feliços_ by Alba Castellvi Miquel (Juny, 2025)
+3. _Titans, pantera i torniquet_ by Can't Play Kanter (Maig, 2025)
+
 
 ### 2024
 1. _La globalització a la deriva_ by Jordi Torrent Pujol (December, 2024)
