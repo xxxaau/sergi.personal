@@ -7,11 +7,11 @@ marp: false
 Books I have read. Those I recommend labeled with ★
 
 ### 2025
-1. _Fer diners_ by Teodor de Mas (Agost, 2025)
-1. _El perquè de tot plegat_ by Quim Monzó (Agost, 2025)
-2. _Els hàbits que els faran feliços_ by Alba Castellvi Miquel (Juny, 2025)
-3. _Titans, pantera i torniquet_ by Can't Play Kanter (Maig, 2025)
-
+1. _Libérese del dolor de espalda_ by Dr. John Sarno (Novembre, 2025)
+2. _Fer diners_ by Teodor de Mas (Agost, 2025)
+3. _El perquè de tot plegat_ by Quim Monzó (Agost, 2025)
+4. _Els hàbits que els faran feliços_ by Alba Castellvi Miquel (Juny, 2025)
+5. _Titans, pantera i torniquet_ by Can't Play Kanter (Maig, 2025)
 
 ### 2024
 1. _La globalització a la deriva_ by Jordi Torrent Pujol (December, 2024)
