@@ -7,6 +7,7 @@ marp: false
 Books I have read. Those I recommend labeled with ★
 
 ### 2025
+1. _La revolució inevitable_ de Genís Roca (Desembre, 2025)
 1. _Libérese del dolor de espalda_ by Dr. John Sarno (Novembre, 2025)
 2. _Fer diners_ by Teodor de Mas (Agost, 2025)
 3. _El perquè de tot plegat_ by Quim Monzó (Agost, 2025)
