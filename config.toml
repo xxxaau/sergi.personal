@@ -4,6 +4,10 @@ title = "Sergi Xaudiera"
 author = "Sergi Xaudiera"
 theme = "sx"
 enableGitInfo = true
+
+[params]
+  description = "Sergi Xaudiera. Computational Communication Research on Crisis Informatics and Misinformation"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

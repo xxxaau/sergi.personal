@@ -38,7 +38,7 @@ Books I have read. Those I recommend labeled with ★
 1. _La revolución de la glucosa_ by Jessie Inchauspé (October, 2022)
 1. _Bored and Brilliant_ by Manoush Zomorodi (September, 2022)
 1. _Por qué dormimos (Why we sleep)_ by Matthew Walker (August, 2022)
-1. _Minimalismo digial (Digital Minimalism)_ by Cal Newport (August, 2022)
+1. _Minimalismo digital (Digital Minimalism)_ by Cal Newport (August, 2022)
 1. _Hábitos atómicos (Atomic Habits)_ by James Clear (July, 2022) ★
 1. _Céntrate (Deep Work)_ by Cal Newport (June, 2022) ★
 1. _Permagel_ by Eva Baltasar (April, 2022)  
