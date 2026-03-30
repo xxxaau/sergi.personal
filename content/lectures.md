@@ -1,37 +1,40 @@
 ---
 title: "Lectures"
 date: 2020-05-12T18:44:37+02:00
-marp: false
+description: Llibres que he llegit al llarg dels anys. 
 ---
+
 ## Lectures
-Llibres que he llegit. Els que recomano estan assenyalats amb ★
+Llibres que he llegit al llarg dels anys.
+
+Els que recomano especialment estan assenyalats amb ★.
 
 ### 2025
 1. _La revolució inevitable_ de Genís Roca (Desembre, 2025)
 1. _Libérese del dolor de espalda_ de Dr. John Sarno (Novembre, 2025)
-2. _Fer diners_ de Teodor de Mas (Agost, 2025)
-3. _El perquè de tot plegat_ de Quim Monzó (Agost, 2025)
-4. _Els hàbits que els faran feliços_ de Alba Castellvi Miquel (Juny, 2025)
-5. _Titans, pantera i torniquet_ de Can't Play Kanter (Maig, 2025)
+1. _Fer diners_ de Teodor de Mas (Agost, 2025)
+1. _El perquè de tot plegat_ de Quim Monzó (Agost, 2025)
+1. _Els hàbits que els faran feliços_ de Alba Castellvi Miquel (Juny, 2025)
+1. _Titans, pantera i torniquet_ de Can't Play Kanter (Maig, 2025)
 
 ### 2024
 1. _La globalització a la deriva_ de Jordi Torrent Pujol (Desembre, 2024)
-2. _How to win friends and influence people_ de Dale Carnegie (Novembre, 2024)
-3. _Jo només il·lumino la catalana terra_ de Valero Sanmartí (Setembre, 2024)  
-4. _L'aigua és això_ de David Foster Wallace (Setembre, 2024) ★
-5. _A casa teníem un himne_ de Maria Climent (Agost, 2024) ★
-6. _Vive más_ de Marcos Vázquez (Juny, 2024)
-7. _Cuatro amigos_ de David Trueba (Maig, 2024)  
+1. _How to win friends and influence people_ de Dale Carnegie (Novembre, 2024)
+1. _Jo només il·lumino la catalana terra_ de Valero Sanmartí (Setembre, 2024)  
+1. _L'aigua és això_ de David Foster Wallace (Setembre, 2024) ★
+1. _A casa teníem un himne_ de Maria Climent (Agost, 2024) ★
+1. _Vive más_ de Marcos Vázquez (Juny, 2024)
+1. _Cuatro amigos_ de David Trueba (Maig, 2024)  
 
 ### 2023
 1. _Aprenent de pare_ de Joan Turu (Setembre, 2023) ★
 1. _Demà, i demà, i demà_ de Gabrielle Zevin (Juliol, 2023) ★
 1. _Never split the difference_ de Chris Voss (Juny, 2023)
-2. _Gratitude_ de Oliver Sacks (Abril, 2023)
-3. _Canto jo i la muntanya balla_ de Irene Solà (Abril, 2023) ★
-4. _Fake Over_ de Nereida Carrillo (Març, 2023)
-5. _El explicador de cosas_ de Randall Munroe (Març, 2023)
-6. _How to take smart notes_ de Sönke Ahrens (Gener, 2023)
+1. _Gratitude_ de Oliver Sacks (Abril, 2023)
+1. _Canto jo i la muntanya balla_ de Irene Solà (Abril, 2023) ★
+1. _Fake Over_ de Nereida Carrillo (Març, 2023)
+1. _El explicador de cosas_ de Randall Munroe (Març, 2023)
+1. _How to take smart notes_ de Sönke Ahrens (Gener, 2023)
 
 ### 2022
 1. _De 0 a 3, res de pantalles?_ de Anna Ramis Assens (Novembre, 2022)
@@ -78,7 +81,7 @@ Llibres que he llegit. Els que recomano estan assenyalats amb ★
 1. _21 lliçons per al segle XXI_ de Yuval Noah Harari (Juny, 2019) ★
 1. _Un viatge a l'Índia_ de Gonçalo M. Tavares (Juny, 2019) ★
 1. _Resistencia digital_ de Críptica (Maig, 2019)
-1. _Sàpiens. Una breu història de la humantat_ de Yuval Noah Harari (Abril, 2019) ★
+1. _Sàpiens. Una breu història de la humanitat_ de Yuval Noah Harari (Abril, 2019) ★
 1. _Més o menys jo_ de Miquel Duran (Febrer, 2019) ★
 1. _Permagel_ de Eva Baltasar (Febrer, 2019)  ★
 1. _El Imperio de la vigilancia_ de Ignacio Ramonet (Gener, 2019)
@@ -116,7 +119,7 @@ Llibres que he llegit. Els que recomano estan assenyalats amb ★
 1. _Segui vora el foc_ de Jair Domínguez (Maig, 2016)
 1. _Educar millor_ de Carles Capdevila (Març, 2016) ★
 1. _La rebel·lió catalana_ de Antonio Baños Boncompain (Febrer, 2016) 
-1. _Catorze ciutats comptant-hi Brookyln_ de Quim Monzó (Gener, 2016) ★
+1. _Catorze ciutats comptant-hi Brooklyn_ de Quim Monzó (Gener, 2016) ★
 1. _La economía no existe_ de Antonio Baños Boncompain (Gener, 2016)
 
 ### 2015
@@ -136,7 +139,7 @@ Llibres que he llegit. Els que recomano estan assenyalats amb ★
 1. _Storytelling, la máquina de fabricar historias y formatear las mentes_ de Salmon (Octubre, 2014)
 1. _Si Beethoven pogués escoltar-me_ de Ramon Gener (Setembre, 2014)
 1. _Globalització econòmica i fragmentació social_ de Alain Touraine (Setembre, 2014)
-1. _Somni d'una nit d'estiu_ de William Shakspeare (Juliol, 2014)
+1. _Somni d'una nit d'estiu_ de William Shakespeare (Juliol, 2014)
 1. _Formulas para ganar_ de Julián Felipo (Gener, 2014) ★
 1. _Avança la teva jubilació_ de Raimon Samsó (Gener, 2014)
 
@@ -195,4 +198,4 @@ Llibres que he llegit. Els que recomano estan assenyalats amb ★
 
 ### 2010
 1. _Y Google, ¿Cómo lo haría?_ de Jeff Jarvis (Novembre, 2010)
-1. _El Palau de la LLuna_ de Paul Auster (Octubre, 2010) ★
+1. _El Palau de la Lluna_ de Paul Auster (Octubre, 2010) ★

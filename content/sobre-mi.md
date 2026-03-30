@@ -1,61 +1,11 @@
 ---
 title: "Sobre mi"
 date: 2020-05-12T18:44:37+02:00
+description: Sobre mi
 ---
-## Perfil
-Nacionalitat: europea  
-Any de naixement: 1986  
-Contacte: [sergi@xaudiera.xyz](mailto:sergi@xaudiera.xyz)  
 
-~  
+Soc en Sergi Xaudiera, doctor en Societat de la Informacio i el Coneixement, i m'apassiona entendre com la tecnologia pot millorar la manera com ens informem, ens relacionem i prenem decisions col·lectives. La meva mirada combina comunicacio, tecnologia, dades i servei public: m'interessa especialment prevenir la desinformacio i construir entorns digitals mes utils, humans i fiables. Una part central d'aquest recorregut academic es pot veure a la meva pagina de [Recerca](/recerca/).
 
-### Formacio academica
-**Doctorat, Societat de la Informacio i el Coneixement**  
-Universitat Oberta de Catalunya  
-2019-2024  
+He treballat durant anys a l'administracio publica impulsant projectes de transformacio digital, estrategia de canals i analitica, i actualment ajudo a integrar la IA en els processos de la Generalitat de Catalunya. Tambe col·laboro amb [Ersilia](https://ersilia.io), una iniciativa de tecnologia oberta orientada a l'impacte social, i he participat en projectes emprenedors com [Numballs](/numballs/) vinculats a l'analisi de dades de xarxes socials.
 
-Tesi: *La gestio de la infodemia i la desinformacio en situacions d'emergencia. Una perspectiva des de Catalunya*  
-
-**Master, Societat de la Informacio i el Coneixement**    
-Universitat Oberta de Catalunya  
-2016-2018
-
-**Grau, Relacions Publiques, Publicitat i Comunicacio Aplicada**
-Universitat de Girona  
-2004 - 2009
-
-**CFGS, Desenvolupament de Programari**    
-Institut Pla de l'Estany  
-2005 - 2007  
-~
-
-### Experiencia professional
-**Responsable del desplegament de casos d'us d'IA. Generalitat de Catalunya**  
-Lideratge i coordinacio de casos d'us d'intelligencia artificial a l'administracio publica.  
-2024 - Actualitat  
-
-**Digital Strategist. Generalitat de Catalunya**  
-Disseny i desplegament d'estrategies digitals per millorar la relacio amb la ciutadania i els serveis publics.  
-2010 - 2024  
-
-**Colaborador. Ersilia**  
-Colaboracio en una iniciativa de codi obert que aplica la IA a la recerca en salut global.  
-2024 - Actualitat  
-
-**Account Executive. We Are Social**  
-Gestio de comptes i campanyes de xarxes socials per a marques internacionals.  
-June 2009 - November 2009  
-
-**Software Developer. IGM Web**  
-Desenvolupament de components backend (php/mysql) per a software de ticketing i maquetacio frontend (css/html) amb criteris d'usabilitat, accessibilitat i SEO.      
-September 2008 - March 2009  
-~
-
-### Competencies
-**Coneixements** - planificacio estrategica, transformacio digital, product management, presa de decisions basada en dades, analisi de xarxes socials (SNA), infodemies i desinformacio  
-**Eines** - R (tidyverse, ggplot2, igraph), Python, gephi, html, css, git, sql, LLMs  
-**Idiomes** - catala (nadiu), castella (nadiu), angles (fluid), frances (basic)  
-~
-
-### Referencies
-Disponibles a peticio
+Si em vols escriure, em trobaras a [sergi@xaudiera.xyz](mailto:sergi@xaudiera.xyz).
