@@ -1,18 +1,20 @@
 <header>
 	{{ if .IsHome }}
 	<h1>{{ $.Site.Title }}</h1>
-	<h4>crisis informatics. misinformation. infodemics. communication. and all that.</h4>
-		<a href="/about/" title="About">About</a> /
-		<a href="/research/" title="Research">Research</a> /
-		<a href="/publications/" title="Publications">Publications</a> /
-		<a href="/reading/" title="Reading">Reading</a>
+	<h4>informacio de crisi. desinformacio. infodemies. comunicacio. i tot aixo.</h4>
+		<a href="/sobre-mi/" title="Sobre mi">Sobre mi</a> /
+		<a href="/recerca/" title="Recerca">Recerca</a> /
+		<a href="/lectures/" title="Lectures">Lectures</a> /
+		<a href="/formacions/" title="Formacions">Formacions</a> /
+		<a href="/xerrades/" title="Xerrades">Xerrades</a>
 	{{ end }}
 	{{ if not .IsHome }}
 	<h1>{{ $.Site.Title }}</h1>
-		<a href="{{ .Site.BaseURL }}">← Home</a> / 
-		<a href="/about/" title="About">About</a> /
-		<a href="/research/" title="Research">Research</a> /
-		<a href="/publications/" title="Publications">Publications</a> /
-		<a href="/reading/" title="Reading">Reading</a>
+		<a href="{{ .Site.BaseURL }}">← Home</a> /
+		<a href="/sobre-mi/" title="Sobre mi">Sobre mi</a> /
+		<a href="/recerca/" title="Recerca">Recerca</a> /
+		<a href="/lectures/" title="Lectures">Lectures</a> /
+		<a href="/formacions/" title="Formacions">Formacions</a> /
+		<a href="/xerrades/" title="Xerrades">Xerrades</a>
 	{{ end }}
 </header>
