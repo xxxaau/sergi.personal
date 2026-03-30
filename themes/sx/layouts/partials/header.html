@@ -1,20 +1,17 @@
 <header>
 	{{ if .IsHome }}
 	<h1>{{ $.Site.Title }}</h1>
-	<h4>informacio de crisi. desinformacio. infodemies. comunicacio. i tot aixo.</h4>
 		<a href="/sobre-mi/" title="Sobre mi">Sobre mi</a> /
 		<a href="/recerca/" title="Recerca">Recerca</a> /
-		<a href="/lectures/" title="Lectures">Lectures</a> /
 		<a href="/formacions/" title="Formacions">Formacions</a> /
-		<a href="/xerrades/" title="Xerrades">Xerrades</a>
+		<a href="/lectures/" title="Lectures">Lectures</a>
 	{{ end }}
 	{{ if not .IsHome }}
 	<h1>{{ $.Site.Title }}</h1>
-		<a href="{{ .Site.BaseURL }}">← Home</a> /
+		<a href="{{ .Site.BaseURL }}">← Inici</a> /
 		<a href="/sobre-mi/" title="Sobre mi">Sobre mi</a> /
 		<a href="/recerca/" title="Recerca">Recerca</a> /
-		<a href="/lectures/" title="Lectures">Lectures</a> /
 		<a href="/formacions/" title="Formacions">Formacions</a> /
-		<a href="/xerrades/" title="Xerrades">Xerrades</a>
+		<a href="/lectures/" title="Lectures">Lectures</a> 
 	{{ end }}
 </header>
