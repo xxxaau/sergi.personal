@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "WebSearch",
+      "WebFetch(domain:testdxp.itlabs.uoc.es)",
+      "WebFetch(domain:scholar.google.es)",
+      "WebFetch(domain:sergi.xaudiera.xyz)",
+      "WebFetch(domain:mastodon.social)",
+      "WebFetch(domain:misinforeview.hks.harvard.edu)",
+      "WebFetch(domain:www.uoc.edu)",
+      "WebFetch(domain:www.linkedin.com)",
+      "WebFetch(domain:raco.cat)",
+      "WebFetch(domain:dialnet.unirioja.es)",
+      "WebFetch(domain:openaccess.uoc.edu)",
+      "Bash(gh api:*)",
+      "WebFetch(domain:scholar.google.com)",
+      "WebFetch(domain:www.researchgate.net)",
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Read(//d/40361989w/Dev/sergi-web-personal/**)",
+      "Bash(done)",
+      "Bash(mv about.md sobre-mi.md)",
+      "Bash(mv research.md recerca.md)",
+      "Bash(mv publications.md publicacions.md)",
+      "Bash(mv reading.md lectures.md)",
+      "Bash(mv teaching.md formacions.md)",
+      "WebFetch(domain:doi.org)",
+      "WebFetch(domain:www.raco.cat)",
+      "WebFetch(domain:www.cac.cat)"
+    ]
+  }
+}
