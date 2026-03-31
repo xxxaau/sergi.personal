@@ -1,0 +1,29 @@
+{{ $section := .Type }}
+<article>
+	{{ if eq $section "links" }}
+		{{/* Links: show external link prominently */}}
+		<h2><a href="{{ .Params.external_url }}" rel="external">{{ .Title }}</a></h2>
+		{{ with .Params.source }}<p><span>from {{ . }}</span></p>{{ end }}
+		{{ with .Params.comment }}<p>{{ . }}</p>{{ end }}
+		{{ with .Params.tags }}<p><span>tags: {{ delimit . ", " }}</span></p>{{ end }}
+		<p><span>{{ .Date.Format "2006-01-02" }}</span></p>
+	{{ else if eq $section "posts" }}
+		{{/* Posts: show brief content with syndication info */}}
+		<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+		{{ .Summary }}
+		{{ with .Params.syndicated }}
+			<p><span>syndicated to: 
+				{{ range . }}
+					<a href="{{ .url }}" rel="external">{{ .platform }}</a>{{ if ne (index . 0) . }}, {{ end }}
+				{{ end }}
+			</span></p>
+		{{ end }}
+		<p><span>{{ .Date.Format "2006-01-02 15:04" }}</span></p>
+	{{ else }}
+		{{/* Blog: show title, excerpt, date, and tags */}}
+		<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+		{{ with .Description }}<p>{{ . }}</p>{{ else }}{{ .Summary }}{{ end }}
+		{{ with .Params.tags }}<p><span>tags: {{ delimit . ", " }}</span></p>{{ end }}
+		<p><span>{{ .Date.Format "2006-01-02" }}</span></p>
+	{{ end }}
+</article>

@@ -1,0 +1,25 @@
+{{ define "main" }}
+	<main>
+		{{ if or .Title .Content }}
+		<div>
+			{{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+			{{ with .Content }}<div>{{ . }}</div>{{ end }}
+		</div>
+		{{ end }}
+
+		{{/* Collect all pages from blog, posts, and links */}}
+		{{ $blog := where site.RegularPages "Section" "blog" }}
+		{{ $posts := where site.RegularPages "Section" "posts" }}
+		{{ $links := where site.RegularPages "Section" "links" }}
+		{{ $all := union (union $blog $posts) $links }}
+		
+		{{/* Sort by date descending and paginate */}}
+		{{ $sorted := sort $all "Date" "desc" }}
+		{{ $paginated := ($sorted | first 20) }}
+
+		{{ range $paginated }}
+			{{ .Render "summary" }}
+		{{ end }}
+	</main>
+{{ end }}
+

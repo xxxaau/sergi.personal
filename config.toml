@@ -8,6 +8,15 @@ enableGitInfo = true
 [params]
   description = "Sergi Xaudiera. Computational Communication Research on Crisis Informatics and Misinformation"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
