@@ -11,6 +11,7 @@ Els que recomano especialment estan assenyalats amb ★.
 
 ### 2026
 1. _Total Immersion_ de Terry Laughlin (Març, 2026)
+1. _Correr con eficacia_ de Jay Dicharry (Febrer, 2026)
 
 ### 2025
 1. _La revolució inevitable_ de Genís Roca (Desembre, 2025)
