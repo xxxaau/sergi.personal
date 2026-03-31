@@ -1,6 +1,22 @@
 # Millores del web personal — Disseny
 Data: 2026-03-13
 
+## Revisió d'estat (2026-03-31)
+
+### Fet
+- Homepage actualitzada en català (`themes/sx/layouts/index.html`)
+- `languageCode = "ca"` a `config.toml`
+- Pàgina de recerca traduïda i ampliada (`content/recerca.md`)
+- Pàgina sobre mi traduïda en català (`content/sobre-mi.md`)
+- Menú amb enllaços a Sobre mi, Recerca i Formacions (`themes/sx/layouts/partials/header.html`)
+- Feed RSS reparat i netejat per a lectors RSS (`layouts/_default/rss.xml`)
+
+### Pendent real
+- Crear pàgina de xerrades i tallers (`content/xerrades.md`)
+- Afegir "Xerrades" al menú de navegació
+- Si es vol mantenir el detall curricular previst: completar `content/sobre-mi.md` amb
+	títol de tesi i desglossament cronològic de rols
+
 ## Context
 Web personal de Sergi Xaudiera (sergi.xaudiera.xyz). Hugo + tema custom "sx". Desplegat a GitHub Pages.
 
@@ -17,7 +33,7 @@ Actualitzar el web per reflectir la situació professional i acadèmica actual. 
 
 ---
 
-## Opció A — Actualització de contingut (en curs)
+## Opció A — Actualització de contingut (gairebé completada)
 
 ### ✅ Homepage (`themes/sx/layouts/index.html`) — APROVADA
 
@@ -42,7 +58,7 @@ sobre com extreure coneixement de les dades de xarxes socials.
 Em pots trobar a Mastodon [https://mastodon.social/@sxau].
 ```
 
-### ⏸️ About (`content/about.md`) — PENDENT
+### ⏸️ About (`content/sobre-mi.md`) — PENDENT PARCIAL
 
 Canvis acordats parcialment:
 - Traduir tot al català
@@ -56,18 +72,18 @@ Preguntes obertes:
 1. Separar Generalitat en dos registres (Digital Strategist 2010–2024 / Responsable IA 2024–present) o mantenir com un de sol?
 2. Afegir noves eines a competències (Python, LLMs...)?
 
-### ⏸️ Research (`content/research.md`) — PENDENT
-- Traduir al català
-- Ampliar amb context i projectes actuals
+### ✅ Research (`content/recerca.md`) — FET
+- Traduït al català
+- Ampliat amb context i projectes actuals
 
 ### ⏸️ Xerrades (`content/xerrades.md`) — PENDENT (secció nova)
 - Crear nova pàgina de xerrades i tallers
 - Afegir al menú de navegació
 - Referència d'estil: https://jorgesanz.net/talks/
 
-### ⏸️ Idioma global — PENDENT
-- `config.toml`: canviar `languageCode = "en-us"` → `languageCode = "ca"`
-- Impacte: atribut `lang` de l'HTML
+### ✅ Idioma global — FET
+- `config.toml`: `languageCode = "ca"`
+- Impacte aplicat: atribut `lang` de l'HTML
 
 ---
 
