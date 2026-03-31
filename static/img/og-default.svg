@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Sergi Xaudiera</title>
+  <desc id="desc">Computational communication research on crisis informatics and misinformation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4f6f8" />
+      <stop offset="100%" stop-color="#d8e1e8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="72" y="72" width="16" height="486" fill="#0f172a" />
+  <text x="120" y="250" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#0f172a">Sergi Xaudiera</text>
+  <text x="120" y="320" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#334155">Computational Communication Research</text>
+  <text x="120" y="368" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#334155">on Crisis Informatics and Misinformation</text>
+  <text x="120" y="520" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#475569">sergi.xaudiera.xyz</text>
+</svg>

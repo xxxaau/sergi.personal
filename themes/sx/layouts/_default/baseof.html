@@ -5,8 +5,28 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="fediverse:creator" content="@sxau@mastodon.social" />.
-	<title>⊙ {{ if not .IsHome }}{{ with .Title }}{{ . }} · {{ end }}{{ end }}{{ .Site.Title }}</title>
-	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{- $pageTitle := .Site.Title -}}
+	{{- if not .IsHome -}}
+		{{- with .Title -}}
+			{{- $pageTitle = printf "%s - %s" . $.Site.Title -}}
+		{{- end -}}
+	{{- end -}}
+	{{- $pageDescription := .Site.Params.description -}}
+	{{- with .Description -}}
+		{{- $pageDescription = . -}}
+	{{- else -}}
+		{{- with .Summary -}}
+			{{- $pageDescription = . | plainify | truncate 180 -}}
+		{{- end -}}
+	{{- end -}}
+	<title>⊙ {{ $pageTitle }}</title>
+	<meta name="description" content="{{ $pageDescription }}">
+	<meta property="og:title" content="{{ $pageTitle }}">
+	<meta property="og:description" content="{{ $pageDescription }}">
+	<meta property="og:url" content="{{ .Permalink }}">
+	<meta property="og:site_name" content="{{ .Site.Title }}">
+	<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+	<meta property="og:image" content="{{ "/img/og-default.svg" | absURL }}">
 	<meta name="author" content="Sergi Xaudiera">
 	<style type="text/css">
 		html {
