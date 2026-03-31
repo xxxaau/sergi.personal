@@ -30,7 +30,7 @@
       {{- with .Description -}}
         {{- $description = . -}}
       {{- end -}}
-      {{- $description = $description | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+      {{- $description = $description | htmlUnescape | replaceRE `\s+` " " | trim -}}
       <description>{{ $description }}</description>
 
       {{- $content := .Content -}}
